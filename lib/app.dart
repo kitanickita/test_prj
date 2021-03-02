@@ -1,7 +1,7 @@
 import 'package:flutter/widgets.dart';
 
 import 'constant/colors.dart';
-import 'screens/screen_0.dart';
+import 'screens/screen_0/screen_0.dart';
 import 'screens/screen_1/screen_1.dart';
 import 'screens/screen_2/screen_2.dart';
 
